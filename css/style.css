@@ -130,7 +130,7 @@ main {
     float: right;
 }
 
-#text-padding {
+.text-padding {
     padding: 30px 100px;
     text-align: justify;
     line-height: 1.5;
