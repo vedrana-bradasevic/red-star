@@ -130,7 +130,7 @@ main {
     float: right;
 }
 
-#sd-info p {
+#text-padding {
     padding: 30px 100px;
     text-align: justify;
 }
